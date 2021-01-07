@@ -1,4 +1,4 @@
-let transactions = [];
+let transactions = [reduce];
 let myChart;
 
 fetch("/api/transaction")
